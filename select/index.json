@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "イデア",
+  "base_artist": "Hanon",
+  "createdAt": "2026-02-25T03:39:18.950629Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イデア (A Moon Child mix)",
+      "artist": "天野月子",
+      "has_synced": true,
+      "path": "select/01_イデア_(A_Moon_Child_mix)_天野月子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イデア (A Moon Child mix)",
+      "artist": "天野月子",
+      "has_synced": true,
+      "path": "select/02_イデア_(A_Moon_Child_mix)_天野月子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イデア",
+      "artist": "Amatsuki",
+      "has_synced": true,
+      "path": "select/03_イデア_Amatsuki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ドライブ・マイ・イデア",
+      "artist": "Tempalay",
+      "has_synced": true,
+      "path": "select/04_ドライブ・マイ・イデア_Tempalay.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "イデア (A Moon Child mix)",
+      "artist": "天野月子",
+      "has_synced": true,
+      "path": "select/05_イデア_(A_Moon_Child_mix)_天野月子.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "イデア (A Moon Child mix)",
+      "artist": "天野月(子)",
+      "has_synced": false,
+      "path": "select/06_イデア_(A_Moon_Child_mix)_天野月(子).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "イデア",
+      "artist": "Tsukiko Amano",
+      "has_synced": false,
+      "path": "select/07_イデア_Tsukiko_Amano.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "マグナ・イデア",
+      "artist": "fortuna",
+      "has_synced": true,
+      "path": "select/08_マグナ・イデア_fortuna.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "イデア (A Moon Child mix)",
+      "artist": "天野月",
+      "has_synced": false,
+      "path": "select/09_イデア_(A_Moon_Child_mix)_天野月.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "イデア",
+      "artist": "天野月子",
+      "has_synced": true,
+      "path": "select/10_イデア_天野月子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イデア",
+      "artist": "Hanon",
+      "has_synced": false,
+      "path": "select/pl_01_イデア_Hanon.txt"
+    }
+  ]
+}
